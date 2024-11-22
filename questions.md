@@ -5,11 +5,11 @@
  pwd -prints out the current working directory  
  mkdir -creates a new director  
 
-2. What do the following Git commands do?
+2. What do the following Git commands do?  
 
- git clone- copies a remote repository to your computer
- git status-shows the state of the working directory
- git diff-shows changes between files or commits
+  git clone- copies a remote repository to your computer  
+  git status-shows the state of the working directory  
+  git diff-shows changes between files or commits  
 
 What do the following Git commands do together? What is the use of that action?
 git log-shows the commits history

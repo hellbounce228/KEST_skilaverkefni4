@@ -18,6 +18,7 @@ What is version control ?
 tracks and manages changes to files over time, saving the history
 
 What are the main advantages of using GIT?
+tracks file changes with a detailed history, works offline, fast and efficient, makes collaboration easier
 
 How often do you think you should commit to a project?
 

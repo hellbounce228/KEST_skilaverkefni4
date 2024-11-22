@@ -1,14 +1,15 @@
-1.What do the following Linux commands do?
+1. What do the following Linux commands do?
 
  CD-switches to the previous directory you were in  
  ls -lists files and directories based on additional flags  
  pwd -prints out the current working directory  
  mkdir -creates a new director  
 
-What do the following Git commands do?
-git clone- copies a remote repository to your computer
-git status-shows the state of the working directory
-git diff-shows changes between files or commits
+2. What do the following Git commands do?
+
+ git clone- copies a remote repository to your computer
+ git status-shows the state of the working directory
+ git diff-shows changes between files or commits
 
 What do the following Git commands do together? What is the use of that action?
 git log-shows the commits history

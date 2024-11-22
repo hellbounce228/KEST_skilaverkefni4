@@ -21,5 +21,6 @@ What are the main advantages of using GIT?
 tracks file changes with a detailed history, works offline, fast and efficient, makes collaboration easier
 
 How often do you think you should commit to a project?
+each time you do a meaningfull change, better to do it several times a day
 
 What is meant by "Working Directory" ?" and "Staging Area" in GIT?

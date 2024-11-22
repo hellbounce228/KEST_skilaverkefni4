@@ -2,7 +2,7 @@ What do the following Linux commands do?
 CD-switches to the previous directory you were in
 ls -lists files and directories based on additional flags
 pwd -prints out the current working directory
-mkdir -creates a new directory
+mkdir -creates a new director
 
 What do the following Git commands do?
 git clone- copies a remote repository to your computer
@@ -15,6 +15,7 @@ git checkout-switches to a specific commit, or file version
 git branch-lists, creates or deletes branches
 
 What is version control ?
+tracks and manages changes to files over time, saving the history
 
 What are the main advantages of using GIT?
 

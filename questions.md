@@ -1,8 +1,8 @@
-What do the following Linux commands do?
-CD-switches to the previous directory you were in
-ls -lists files and directories based on additional flags
-pwd -prints out the current working directory
-mkdir -creates a new director
+1.What do the following Linux commands do?
+   CD-switches to the previous directory you were in
+   ls -lists files and directories based on additional flags
+   pwd -prints out the current working directory
+   mkdir -creates a new director
 
 What do the following Git commands do?
 git clone- copies a remote repository to your computer

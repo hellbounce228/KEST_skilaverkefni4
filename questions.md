@@ -24,3 +24,5 @@ How often do you think you should commit to a project?
 each time you do a meaningfull change, better to do it several times a day
 
 What is meant by "Working Directory" ?" and "Staging Area" in GIT?
+working directory-files you´re currently working on
+staging area-controls,reviews and organizes commit changes

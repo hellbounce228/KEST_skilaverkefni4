@@ -17,15 +17,17 @@
   git checkout-switches to a specific commit, or file version  
   git branch-lists, creates or deletes branches  
 
-What is version control ?
-tracks and manages changes to files over time, saving the history
+4. What is version control ?  
 
-What are the main advantages of using GIT?
-tracks file changes with a detailed history, works offline, fast and efficient, makes collaboration easier
+  tracks and manages changes to files over time, saving the history
 
-How often do you think you should commit to a project?
-each time you do a meaningfull change, better to do it several times a day
+5. What are the main advantages of using GIT?  
+  tracks file changes with a detailed history, works offline, fast and efficient, makes collaboration easier
 
-What is meant by "Working Directory" ?" and "Staging Area" in GIT?
-working directory-files you´re currently working on
-staging area-controls,reviews and organizes commit changes
+6. How often do you think you should commit to a project?  
+  each time you do a meaningfull change, better to do it several times a day
+
+7. What is meant by "Working Directory" ?" and "Staging Area" in GIT?
+
+  working directory-files you´re currently working on  
+  staging area-controls,reviews and organizes commit changes

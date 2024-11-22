@@ -10,9 +10,9 @@ git status-shows the state of the working directory
 git diff-shows changes between files or commits
 
 What do the following Git commands do together? What is the use of that action?
-git log
-git checkout
-git branch
+git log-shows the commits history
+git checkout-switches to a specific commit, or file version
+git branch-lists, creates or deletes branches
 
 What is version control ?
 
